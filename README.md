@@ -6,6 +6,14 @@ CU-VIRT-FIN-PT-03-20: Bootcamp Module 1 Challenge
 2. import numpy
 3. import 
 
+**Functions: 
+1. about_this_loan
+2. conditional_calc
+3. conditional_filter
+4. send to csv
+
+**Output
+1.loan_list.csv
 
 Whats contained in this project
 1. the loan_analyzer script
